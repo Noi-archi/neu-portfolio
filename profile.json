@@ -1,0 +1,59 @@
+{
+  "name": "Seki Noi",
+  "nameJa": "関 埜伊",
+  "title": "Architecture Student / Designer",
+  "school": "釧路工業高等専門学校 建築学分野 3年",
+  "location": "北海道 釧路市",
+  "bio": "北海道釧路市で建築を学ぶ高専生。デザイン、プロダクト制作、地域活動など、分野を横断しながらさまざまな挑戦中。「当たり前を問い直し、新しい価値を形にすること」を大切に、人や地域に良い影響を与えられるものづくりを目指しています。",
+  "bioShort": "北海道釧路市で建築を学ぶ高専生。「当たり前を問い直し、新しい価値を形にすること」を大切に、人や地域に良い影響を与えられるものづくりを目指しています。",
+  "timeline": [
+    {
+      "year": "2007",
+      "label": "北海道 釧路市 生まれ"
+    },
+    {
+      "year": "2022",
+      "label": "釧路工業高等専門学校 建築学分野 入学"
+    },
+    {
+      "year": "2023",
+      "label": "アントレプレナーシップ部 設立"
+    },
+    {
+      "year": "2024",
+      "label": "Kosen Voice Lab スタート"
+    },
+    {
+      "year": "2025",
+      "label": "Co-lab 釧路 発足"
+    }
+  ],
+  "hobbies": [
+    {
+      "name": "アウトドア",
+      "icon": "🌲",
+      "desc": "自然の中で過ごす時間が好き。キャンプ、登山、川遊びなど。"
+    },
+    {
+      "name": "焚き火",
+      "icon": "🔥",
+      "desc": "火を眺めながら考えを整理する。思考が澄んでいく感覚が好き。"
+    },
+    {
+      "name": "ものづくり",
+      "icon": "🪵",
+      "desc": "木工やプロダクトデザイン、DIYなど、手を動かすこと全般。"
+    }
+  ],
+  "skills": [
+    "建築設計",
+    "AutoCAD",
+    "Illustrator",
+    "木工・プロダクト"
+  ],
+  "email": "seki.noi08@gmail.com",
+  "instagram": "#https://www.instagram.com/seki_noi08/",
+  "twitter": "#",
+  "github": "#",
+  "profileImage": "images/profile.jpg"
+}
