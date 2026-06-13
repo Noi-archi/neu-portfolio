@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "filename": "project-01.html",
+    "number": "01",
+    "year": "2024",
+    "title": "アントレプレナーシップ部",
+    "description": "挑戦する文化を、高専の中から。学年・学科を越えた学生コミュニティの立ち上げと運営。",
+    "tagline": "挑戦する文化を、高専の中から。",
+    "image": "images/uploads/IMG_8689-1781250125760.jpeg",
+    "sections": [
+      {
+        "heading": "概要",
+        "paragraphs": [
+          "釧路高専内でアントレプレナーシップ（起業家精神）を育む部活動を立ち上げ、運営しました。学年・学科を越えた学生が集まり、互いの知識やアイデアを共有しながらプロジェクトに取り組む環境を作りました。"
+        ]
+      },
+      {
+        "heading": "活動内容",
+        "paragraphs": [
+          "ワークショップの企画・運営、外部メンターとの交流会、学生起業家へのインタビューなどを行いました。「挑戦する人を孤独にしない」をコンセプトに、仲間と共に成長できる場を目指しました。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "filename": "project-02.html",
+    "number": "02",
+    "year": "2025",
+    "title": "Kosen Voice Lab",
+    "description": "声で、人と人をつなぐ。高専生の音声メディアプロジェクト。企画・収録・編集・広報を一貫担当。",
+    "tagline": "声で、高専生の物語を届ける。",
+    "image": "https://picsum.photos/seed/kvl01/800/600?grayscale",
+    "sections": [
+      {
+        "heading": "概要",
+        "paragraphs": [
+          "高専生によるポッドキャストプロジェクト。さまざまな分野で挑戦する人たちの声を記録し、発信しています。企画・収録・編集・広報まで一貫して担当しています。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "filename": "project-03.html",
+    "number": "03",
+    "year": "2026",
+    "title": "Co-lab 釧路",
+    "description": "学生から、釧路を興す。地域共創プロジェクトの企画・運営。",
+    "tagline": "学生と地域をつなぐ共創の場。",
+    "image": "https://picsum.photos/seed/colab01/800/600?grayscale",
+    "sections": [
+      {
+        "heading": "概要",
+        "paragraphs": [
+          "釧路の学生と地域の人々が交わる場を作ることを目的とした地域共創プロジェクト。イベント企画、地域課題へのアプローチ、学生の視点を活かしたまちづくりへの参加を行っています。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "filename": "project-04.html",
+    "number": "04",
+    "year": "2025",
+    "title": "Ent-X ハナビト",
+    "description": "挑戦する人に、光を当てる。インタビューを通じて、挑戦者のストーリーを可視化する。",
+    "tagline": "挑戦する人に、光を。",
+    "image": "https://picsum.photos/seed/hanabito01/800/600?grayscale",
+    "sections": [
+      {
+        "heading": "概要",
+        "paragraphs": [
+          "さまざまな分野で挑戦している人々のインタビューを記事・動画・音声でまとめ発信するプロジェクト。挑戦者の「なぜ」「どうやって」を丁寧に掘り起こし、可視化することをテーマにしています。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "filename": "project-05.html",
+    "number": "05",
+    "year": "2026",
+    "title": "Studio neu",
+    "description": "aa",
+    "tagline": "aa",
+    "image": "",
+    "sections": []
+  }
+]
